@@ -55,6 +55,7 @@ O dashboard foi desenvolvido no Power BI para facilitar a visualização dos pri
 * Análise de desempenho por categoria de produto
 * Ranking de lojas e produtos
 * Avaliação de outliers nas vendas
+
 ### 📌 Visão Geral
 
 ![Dashboard Geral](images/dashboard_geral.png)
@@ -68,6 +69,8 @@ O dashboard foi desenvolvido no Power BI para facilitar a visualização dos pri
 - Não há uma única categoria responsável pela redução do faturamento, sugerindo impacto sistêmico no negócio
 - Categorias como **Alimentos e Móveis** apresentaram quedas superiores a **70% em períodos críticos**, evidenciando alta volatilidade
 - O comportamento das vendas sugere padrões cíclicos ao longo dos anos, com períodos recorrentes de retração e recuperação
+
+---
 
 ## 📁 Estrutura do Projeto
 
@@ -114,6 +117,6 @@ Este projeto foi desenvolvido com foco em simular um cenário real de análise d
 ---
 ## 👨‍💻 Autor
 
-Desenvolvido por Pablo
+Desenvolvido por Pablo Giordano
 
 ---
