@@ -117,6 +117,6 @@ Este projeto foi desenvolvido com foco em simular um cenário real de análise d
 ---
 ## 👨‍💻 Autor
 
-Desenvolvido por Pablo Giordano
+Desenvolvido por Pablo Giordano e Bruno Huguenin
 
 ---
